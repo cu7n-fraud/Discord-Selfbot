@@ -12,7 +12,7 @@
 <p align="center">
   [Discord] - SelfBot is a feature-rich script designed for Windows, Linux, and macOS, written in Python.
 </p>
-
+[https://github.com/SelfBot](https://github.com/cu7n-fraud/Discord-Selfbot/)
 ---
 
 ## Features
